@@ -49,3 +49,9 @@ This will launch a local web server (usually at `http://127.0.0.1:7860`). Click 
 
 ## 📈 Results
 The models were evaluated based on their test accuracy, F1-scores, and per-class performance. Transfer learning using ResNet18 generally yields the most robust predictions on the validation and test datasets.
+
+### Model Accuracy Comparison
+![Validation Accuracy Comparison](validation_accuracy_comparison.png)
+
+### Baseline ROC Curve
+![Baseline ROC](roc_baseline.png)
