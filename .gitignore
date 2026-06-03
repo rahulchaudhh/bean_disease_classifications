@@ -1,0 +1,19 @@
+# Datasets
+dataset/
+
+# Python caches and environments
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Note: Pytorch model files (*.pth) can be large. 
+# GitHub's strict file limit is 100MB per file. 
+# Your models (baseline_cnn.pth, improved_cnn.pth, resnet18_ft.pth) are likely under this limit, 
+# but if you get a large file error, uncomment the line below:
+# *.pth

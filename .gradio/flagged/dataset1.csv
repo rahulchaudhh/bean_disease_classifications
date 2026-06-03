@@ -1,0 +1,5 @@
+image,output,timestamp
+,"{""label"": null, ""confidences"": null}",2026-05-07 15:00:21.713179
+,"{""label"": null, ""confidences"": null}",2026-05-07 15:00:23.834200
+.gradio/flagged/image/cbdcaee7d192ba7b2cf3/image.png,"{""label"": ""Angular Leaf Spot"", ""confidences"": [{""label"": ""Angular Leaf Spot"", ""confidence"": 0.9797182083129883}, {""label"": ""Bean Rust"", ""confidence"": 0.019854983314871788}, {""label"": ""Healthy"", ""confidence"": 0.0004267039767000824}]}",2026-05-07 15:01:10.911154
+.gradio/flagged/image/398bf3fa063e08230b34/image.png,"{""label"": ""Angular Leaf Spot"", ""confidences"": [{""label"": ""Angular Leaf Spot"", ""confidence"": 0.9797182083129883}, {""label"": ""Bean Rust"", ""confidence"": 0.019854983314871788}, {""label"": ""Healthy"", ""confidence"": 0.0004267039767000824}]}",2026-05-07 15:01:12.890262
